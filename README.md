@@ -1,1 +1,1 @@
-# luan
+Meu nome é Luan Soranzo Carneiro, tenho 16 anos, sou estudante no colégio estadual Branca da Mota Fernandes, estou estudando por meio da Alura, estou me desenvolvendo na linguagem Scratch e JavaScript,utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na disciplina de Pensamento computacional, você pode entrar em contato comigo  (luan.soranzo.carneiro@escola.pr.gov.br)
